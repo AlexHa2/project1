@@ -1,0 +1,15 @@
+.footer{
+    height: 30px;
+    background-color: rgb(182, 182, 11);
+    margin-top: 10px;
+  }
+  
+  .footer footer{
+  }
+  
+  .footer footer p{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 5px;
+    margin: 0;
+  }
