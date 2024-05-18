@@ -5,6 +5,7 @@
     display: flex;
     list-style-type: none;
     margin: 0;
+    justify-content: center;
   }
   
   .header nav ul li{
