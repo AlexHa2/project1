@@ -13,7 +13,7 @@ export default class MainCom extends Component {
   render() {
     return (
       <div>
-        <PreCom playerDATA = {this.playerData}/>
+        <PreCom playerDATA={this.state.playerData} />
       </div>
     );
   }
